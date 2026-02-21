@@ -38,6 +38,12 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas robustas. Mi 
 </p>
 
 ---
+## Contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/holfolzg/holfolzg/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ### 📫 Conectemos
 <p align="left">
