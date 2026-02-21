@@ -30,9 +30,11 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas robustas. Mi 
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=holfolzg&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=holfolzg&layout=compact&theme=radical&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=holfolzg&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=holfolzg&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
