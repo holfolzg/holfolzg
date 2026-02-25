@@ -15,7 +15,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas robustas. Mi 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,py,django,mongodb,postgres,mysql,docker,linux,git,github,vscode,postman,html,css&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,py,django,mongodb,postgres,mysql,docker,linux,git,github,vscode,postman,html,css,astro,wordpress&perline=8" />
   </a>
 </p>
 
