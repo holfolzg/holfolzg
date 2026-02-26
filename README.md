@@ -4,10 +4,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 🚀 Desarrollador FullStack
+## 🚀 Desarrollador FrontEnd 
 **"Los errores no son fracasos, son pasos en el proceso de aprendizaje."**
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas robustas. Mi enfoque actual es perfeccionar el desarrollo de sitios web ultra-escalables y de alta disponibilidad, dominando tanto el **Frontend** como el **Backend**.
+Soy un desarrollador apasionado por crear soluciones tecnológicas robustas. Mi enfoque actual es perfeccionar el desarrollo de sitios web ultra-escalables y de alta disponibilidad, dominando tanto el **Frontend** y **Backend**.
 
 ---
 
@@ -15,7 +15,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas robustas. Mi 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,angular,py,django,mongodb,postgres,mysql,docker,linux,git,github,vscode,postman,html,css,astro,wordpress&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,angular,react,py,django,mongodb,postgres,mysql,docker,linux,git,github,vscode,postman,html,css,astro,wordpress&perline=8" />
   </a>
 </p>
 
@@ -23,10 +23,10 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas robustas. Mi 
 
 ### 🔍 En qué estoy trabajando...
 
-- 🔭 **Actualmente:** Profundizando en el ecosistema de JavaScript, React, Python y Django.
+- 🔭 **Actualmente:** Profundizando en el ecosistema de JavaScript y TypeScript con Astro, Angular, Python y Django.
 - 🌱 **Aprendizaje continuo:** Optimizando arquitecturas para bases de datos y automatización de procesos.
 - 📝 **Comunidad:** Me encanta compartir lo que aprendo y ayudar a resolver dudas técnicas.
-- 💬 **Hablemos de:** Desarrollo Fullstack, optimización y mejores prácticas.
+- 💬 **Hablemos de:** Desarrollo FrontEnd y BackEnd, optimización y mejores prácticas.
 
 ---
 
